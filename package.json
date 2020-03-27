@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "jest reducer.test.js"
+  },
+  "dependencies": {
+    "jest": "^25.2.3"
+  }
+}
